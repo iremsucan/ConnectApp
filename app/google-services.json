@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69716166369",
+    "project_id": "connectapp-59893",
+    "storage_bucket": "connectapp-59893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69716166369:android:7adb9cfeca37da89bb99a0",
+        "android_client_info": {
+          "package_name": "com.iremsucan.connectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4h591E3OCns03hiJGbn60rdPDMGX5bSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
